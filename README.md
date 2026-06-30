@@ -1,1 +1,1 @@
-# smart_pr-html
+# 스마트 인재 개발원 html 활동
